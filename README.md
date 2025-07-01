@@ -4,7 +4,9 @@
 **BookNest** is a full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js). It provides users with the ability to register, log in, browse books, add them to a cart, and simulate placing orders. The app is designed for clarity, simplicity, and scalability — ideal for both learning and production scaffolds.
 
 
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/0f922f39-6248-4e83-9452-0d6a62ccfc49" />
+<img width="1440" alt="Screenshot 2025-06-30 at 3 48 45 PM" src="https://github.com/user-attachments/assets/4d3fa1bb-8788-4ff4-983e-a74db4bd893d" />
+
+
 
 
 
